@@ -1,10 +1,10 @@
 spring:
   application:
-    name: movie-store
+    name: message-store
 
 server:
   port: 0
 
 user:
-  role: ADMIN
+  message: i am Vicki
   
