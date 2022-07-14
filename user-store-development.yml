@@ -3,7 +3,7 @@ spring:
     name: user-store
 
 server:
-  port: 0
+  port: 12345
 
 user:
   role: ADMIN
