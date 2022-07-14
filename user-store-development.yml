@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: user-store
+
+server:
+  port: 0
+
+user:
+  role: ADMIN
